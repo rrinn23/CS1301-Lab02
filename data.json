@@ -1,0 +1,26 @@
+
+{
+    "chart_title": "Weekly Study Hours by Subject",
+    "data_points": [
+        {
+            "label": "PHYS 2211",
+            "value": 23
+        },
+        {
+            "label": "CS 2050",
+            "value": 20
+        },
+        {
+            "label": "CS 1301",
+            "value": 12
+        },
+        {
+            "label": "APPH 1050",
+            "value": 3
+        },
+        {
+            "label": "GT 1000",
+            "value": 1
+        }
+    ]
+}
